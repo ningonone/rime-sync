@@ -1,0 +1,12 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.16.3
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Mon Jan  6 17:35:05 2025"
+  rime_version: 1.11.2
+patch:
+  "style/color_scheme": aqua
+  "style/display_tray_icon": true
+  "style/font_face": "LXGW WenKai Mono"
+  "style/horizontal": false
+  "style/inline_preedit": true
